@@ -1,0 +1,40 @@
+
+.container{
+  text-align: center;
+}
+input {
+  width: 500px;
+  height: 35px;
+  margin: 4px;
+  padding: 8px;
+  border: 1px solid gray;
+  border-radius: 25px;
+
+}
+
+.google-search {
+  height: 40px;
+  width: auto;
+  color: #646464;
+  background: #F2F2F2;
+  border: none;
+  border-radius: 25px;
+
+}
+
+
+.lucky {
+  height: 40px;
+  width: auto;
+  color: #646464;
+  background: #F2F2F2;
+  border: none;
+  border-radius: 25px;
+
+}
+
+.google-search:hover, .lucky:hover {
+  color: #373737;
+  background: #D3D3D3;
+  border: .5px solid lightgray
+}
